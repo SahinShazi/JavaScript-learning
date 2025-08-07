@@ -39,7 +39,7 @@ Feel free to explore the code and try it yourself!
 
 If you're also learning JavaScript or have suggestions, feel free to connect!
 
-- 📧 Email: [Email] (rksahin@gmail.com)
+- 📧 Email: rksahinrone@gmail.com
 
 ---
 
