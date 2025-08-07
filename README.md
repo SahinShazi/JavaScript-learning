@@ -39,8 +39,7 @@ Feel free to explore the code and try it yourself!
 
 If you're also learning JavaScript or have suggestions, feel free to connect!
 
-- 💬 GitHub: [Your GitHub Profile](https://github.com/your-username)
-- 📧 Email: rksahin@gmail.com
+- 📧 Email: [Email] (rksahin@gmail.com)
 
 ---
 
