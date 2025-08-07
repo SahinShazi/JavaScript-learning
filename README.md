@@ -32,4 +32,16 @@ I’m currently learning JavaScript step-by-step. My goal is to build strong fun
 ## 📌 How to Use
 
 Feel free to explore the code and try it yourself!  
-You can clone the repo using:
+
+---
+
+## 🙌 Connect with Me
+
+If you're also learning JavaScript or have suggestions, feel free to connect!
+
+- 💬 GitHub: [Your GitHub Profile](https://github.com/your-username)
+- 📧 Email: rksahin@gmail.com
+
+---
+
+Thanks for visiting! 🌟
