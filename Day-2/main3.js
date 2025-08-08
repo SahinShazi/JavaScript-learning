@@ -11,6 +11,51 @@
 let firstName = "Sahin Shazi"; // Stores the first name as a string
 let age = 30;                  // Stores the age as a number
 
+
+//JavaScript is Case sensitive 
+let NUMBER = 1
+let Number = 2
+let number = 4
+
+console.log(NUMBER);
+console.log(Number);
+console.log(number);
+//Because JavaScript is case sensitive
+
+//Naming identifiers 
+//Variable, functions
+
+//The identifiers must start with a latter, _ or $
+let name = "Sahin";
+let _age = 10;
+let $location = "New York"
+
+//Invalid identifier
+/*let 1234 = "10";
+let %age = 10;
+let 1name = 'Max;*/
+
+//letters, number,$ and _
+let name1 = "Sahin";
+let yes = 120;
+let last_name = "Don";
+let $firstName = "John";
+
+
+//Conversation
+//Camel case - lastName, firstName
+let firstName = "Sahin";
+
+
+//Semicolons -NOT mandatory (but recommend)
+let city = "Barisal";
+let country = 'USA'
+
+console.log(city);
+console.log(country);
+
+
+
 // --------------------------------
 // 2. Variable Declaration (Wrong Way)
 // --------------------------------
