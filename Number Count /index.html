@@ -1,43 +1,23 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="bn">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Number Count</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="style.css"/>
+  <title>Number Counter</title>
+
 </head>
-
 <body>
-  
-  <div class="contact">
-    <label id="countLabel">0</label> <br />
-    <button id=decreaseBtn>Decrease</button>
-    <button id=resetBtn>Reset</button>
-    <button id=increaseBtn>Increase</button>
-  </div>
+  <div class="counter-container">
+    <div class="headline">Simple Counter</div>
+    <label id="countLabel" aria-live="polite">0</label>
 
+    <div class="btn-group">
+      <button id="decreaseBtn" class="btn btn-decrease" aria-label="Decrease">Decrease</button>
+      <button id="resetBtn" class="btn btn-reset" aria-label="Reset">Reset</button>
+      <button id="increaseBtn" class="btn btn-increase" aria-label="Increase">Increase</button>
+    </div>
+  </div>
   <script src="main.js"></script>
 </body>
-
-<style>
-  #countLabel{
-    display: block;
-    text-align: center;
-    font-size: 100px;
-    margin-top: 50%;
-    user-select: none;
-    color: #391215;
-  }
-  .contact{
-    text-align: center;
-    margin-top: 50%;
-  }
-  .contact button{
-    padding: 10px;
-    font-size: 15px;
-    margin: 6px;
-    border-radius: 5px
-  }
-</style>
-
 </html>
