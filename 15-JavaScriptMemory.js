@@ -30,9 +30,15 @@ age: 30
 }
 
 let people = student;
-
 people.name = "Enam";
-
 console.log(student);
+
+Example:2
+let car = ["BMW", "Audi"];
+let newCar = car;
+newCar[0] = "Toyota";
+
+console.log(car);
+console.log(newCar);
 */
 
